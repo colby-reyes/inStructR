@@ -32,8 +32,7 @@ else:
     select_saved = False
 
 
-# initialize instruction set to be displayed
+# initialize instruction set to be displayed (default instructions if saved set is not chosen)
 if select_saved == False:
-    instr = ()
-    root = Tk()
-    root.image = filedialog.askopenfile()
+    from dfltData import *
+    
