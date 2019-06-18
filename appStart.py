@@ -6,14 +6,14 @@ Date Created: 11JUN2019
 %% modules used: pandas, tkinter, pillow/PIL, turtle
 """
 from cImage import *
-#from cImage import filedialog
+from cImage import filedialog
 from PIL import *
 from tkinter import *
 from turtle import *
 import pandas as p
 
-#x = p.DataFrame()
-#print(x)
+x = p.DataFrame()
+print(x)
 
 print("Hello")
 
