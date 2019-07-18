@@ -13,4 +13,5 @@ class sourdough:
     prereq = (["- 1 cup flour\n", "- 0.5 cup water\n"], "measure.jpg")
     steps = [{1:(["measure out flour"],"measure.jpg")}, ]
 
-stretches = [{"Prereq": (["yoga mag", "foam roller"])}]    
+stretches = [{"Prereq": (["yoga mat", "foam roller"])}]   
+ 
