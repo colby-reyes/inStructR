@@ -9,3 +9,4 @@ def usrIn():
     done = False
     while not done:
         inp = input("") 
+#adapt for GUI once terminal-version is working 
