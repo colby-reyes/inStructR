@@ -1,4 +1,5 @@
 inStructR App
+
 Easy-to-read, step by step instructions
     - automatically generated from your favorite websites 
     ... or ...
